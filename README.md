@@ -123,6 +123,10 @@ Idle Bluetooth can delay a command by 1–3 s; while you are typing it is ~50 ms
 - Keeping the backlight on uses more battery.
 - The app is ad-hoc signed, not notarized.
 
+## Contributing
+
+New effects, other keyboards and bug reports are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 [MIT](LICENSE)
