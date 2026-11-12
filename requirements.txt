@@ -1,0 +1,4 @@
+hidapi
+PySide6
+pynput
+psutil
